@@ -2,6 +2,8 @@ Right_Click_Instagram
 =====================
 
 GPU Accelerated Image Filtering Program: One Click Image Transform
+-Shell Extension that allows you to use available filters to transform an image file faster than ever, thanks to
+GPU accelerated code via OpenCL. Just takes a couple of clicks and voila!
 
 *Won Most Innovative at the UT Austin Hackathon
 
